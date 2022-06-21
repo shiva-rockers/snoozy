@@ -1,0 +1,33 @@
+{
+  "name": "snoozy",
+  "version": "1.0.0-beta.1",
+  "description": "Snoozy is open-source lightweight utility library delivering modularity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "encrypt",
+    "security",
+    "encryption",
+    "token",
+    "underscore",
+    "lodash",
+    "json",
+    "array",
+    "moment",
+    "timer",
+    "timezone"
+  ],
+  "engines": {
+    "node": ">= 8.0"
+  },
+  "author": "Shivam R Mishra",
+  "license": "ISC",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
